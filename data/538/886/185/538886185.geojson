@@ -1,0 +1,50 @@
+{
+  "id": 538886185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"TR",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191569,
+        101912665,
+        85632393,
+        85679533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"29394003"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912665,
+            "postalcode_id":538886185,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":538886185,
+    "wof:lastmodified":1460093266,
+    "wof:name":"41102",
+    "wof:parent_id":"101912665",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
